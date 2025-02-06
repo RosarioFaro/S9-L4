@@ -68,10 +68,10 @@ class AddComment extends Component {
 
         <Button
           type="submit"
-          className="mt-2 bg-transparent"
+          className="mt-2"
           style={{
-            backgroundColor: "#e8b95a",
-            borderColor: "#e8b95a",
+            backgroundColor: "#ffffff",
+            borderColor: "#FFE082",
           }}
         >
           <img src={send} alt="send" width="40" height="40" />
