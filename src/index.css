@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("./assets/light-veneer.webp");
+  background-position: top;
+  background-attachment: fixed;
+}
